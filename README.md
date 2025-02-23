@@ -26,7 +26,7 @@
 > 3. Import the `database.gz` via `phpMyAdmin`
 > 4. Navigate to the `C:\file-server` in console and start php using the command:  
 >    `php -S <YOUR_IP_ADDRESS>:PORT_NUMBER -t code\public`
-> 5. The file-server is ready to use, you can log in to the administrator account with following credentials:
+> 5. The file-server is ready to use, you can log in to the administrator account with following credentials:  
 >    `Username: Administrator`  
 >    `Password: abc@123`
 >

@@ -37,7 +37,7 @@
 
 - This project is developed to bo hosted on a Windows machine and the clients must support `SMB Protocol` to access the folders.
 - The folders can be accessed in Windows by typing this address in the `File Explorer` or `Run(Win +R)`:  
-  `\\<SERVER_IP_ADDRESS>` (_The process for other OS's may vary_)
+  `\\<SERVER_IP_ADDRESS>` (_The process for other devices and Operating Systems may vary_)
 - The username must be 10 digit number and the password is the same as the username by default.
 - Users can change their passwords by signing in to the web interface.
 - To reset the password of a user, they should contact the Administrator.

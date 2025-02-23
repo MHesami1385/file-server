@@ -30,5 +30,5 @@
 >    `Username: Administrator`  
 >    `Password: abc@123`
 >
-> **NOTE**: To reset the password of the `Administrator`, edit the `password` field and paste the following hash value:
+> **NOTE**: To reset the password of the `Administrator`, edit the `password` field and paste the following hash value:  
 > `$2y$10$UdcYwds1pRXdjW9QIUrY4.rAV5THgAMuA4D.A4EyGTo4g7laFiY/y`
